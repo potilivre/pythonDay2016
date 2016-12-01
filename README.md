@@ -1,10 +1,10 @@
-Python Brazil [11]
+Python Day Natal 2016
 
 
 ### Set up & Install dependencies
 
 ```
-$ git clone git@github.com:designa/pythonbrasil11.git
+$ git clone git@github.com:potilivre/pythonbrasil11-site.git
 $ cd pythonbrasil11
 $ gem install jekyll
 ```
